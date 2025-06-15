@@ -38,6 +38,6 @@ Aşağıda uygulamadan bazı örnek ekran görüntüleri görebilirsiniz:
 
 ## Proje Canlı Demo
 
-[Tarım Yönetim Sistemi ]([https://youtu.be/örneklik-video-linki](http://95.130.171.20/~st23360859720/tarim_yonetim/login.php))
+[Tarım Yönetim Sistemi ](http://95.130.171.20/~st23360859720/tarim_yonetim/login.php)
 
 ---
