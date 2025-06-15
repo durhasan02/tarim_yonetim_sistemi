@@ -44,4 +44,10 @@ Kayıt Ol Ekranı
 
 [Tarım Yönetim Sistemi ](http://95.130.171.20/~st23360859720/tarim_yonetim/login.php)
 
+
+## Proje Youtube Tanıtım Videsu
+
+[Tarım Yönetim Sistemi Video](https://youtu.be/VERRnZTJFDY?si=hhTv4Kxy0rO8K3fC)
+
 ---
+Durhasan Yazğan
