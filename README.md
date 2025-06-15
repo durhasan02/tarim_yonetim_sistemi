@@ -29,7 +29,7 @@ Kullanıcılar sisteme kayıt olup giriş yapabilir, kendi ürün kayıtlarını
 
 Aşağıda uygulamadan bazı örnek ekran görüntüleri görebilirsiniz:
 
-![Giriş Ekranı]([screenshots/Ekran görüntüsü 2025-06-15 223859.png](https://github.com/durhasan02/tarim_yonetim_sistemi/blob/ddee79407ce3f83aa444289417b3b099c77c6697/screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-15%20223859.png))
+![Giriş Ekranı](screenshots/Ekran görüntüsü 2025-06-15 223859.png)
 ![Kayıt Ol Ekranı](screenshots/Ekran görüntüsü 2025-06-15 193633.png)
 ![Ürün Ekle Ekranı](screenshots/Ekran görüntüsü 2025-06-15 193557.png)
 ![Ürün Listesi](screenshots/Ekran görüntüsü 2025-06-15 193435.png)
