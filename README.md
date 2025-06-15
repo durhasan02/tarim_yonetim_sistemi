@@ -29,11 +29,11 @@ Kullanıcılar sisteme kayıt olup giriş yapabilir, kendi ürün kayıtlarını
 
 Aşağıda uygulamadan bazı örnek ekran görüntüleri görebilirsiniz:
 
-![Giriş Ekranı](screenshots/Ekran görüntüsü 2025-06-15 223859.png)
-![Kayıt Ol Ekranı](screenshots/Ekran görüntüsü 2025-06-15 193633.png)
-![Ürün Ekle Ekranı](screenshots/Ekran görüntüsü 2025-06-15 193557.png)
-![Ürün Listesi](screenshots/Ekran görüntüsü 2025-06-15 193435.png)
-![ürünü Düzenle Ekranı](screenshots/Ekran görüntüsü 2025-06-15 193612.png)
+![Giriş Ekranı](screenshots/giris.png)
+![Kayıt Ol Ekranı](screenshots/kayit.png)
+![Ürün Ekle Ekranı](screenshots/urun_ekle.png)
+![Ürün Listesi](screenshots/urun_liste.png)
+![Ürünü Düzenle Ekranı](screenshots/urun_duzenle.png)
 
 
 ## Proje Canlı Demo
